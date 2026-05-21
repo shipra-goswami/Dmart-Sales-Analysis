@@ -20,7 +20,7 @@ An interactive Excel dashboard built on Superstore retail sales data — designe
 
 | Feature | Details |
 |--------|---------|
-| Pivot Tables | 4 — by Category, Region, Segment, Ship Mode |
+| Pivot Tables | 5 — by Category,sub-category , Region, Segment, Ship Mode |
 | Charts | 5 — 4 Pie Charts + 1 Bar Chart |
 | Slicers | State filter + Sub-Category filter |
 | Timeline | Filter by Ship Date (monthly/yearly) |
